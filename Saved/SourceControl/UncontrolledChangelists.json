@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/v.hulin/Desktop/TowerDefenceSev/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/v.hulin/Desktop/TowerDefenceSev/Content/Characters/NPC/Enemies/BP_Spawner.uasset",
+				"C:/Users/v.hulin/Desktop/TowerDefenceSev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/L9/F9KUL852GRSUGHTK3CWRJY.uasset",
+				"C:/Users/v.hulin/Desktop/TowerDefenceSev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JX/V7AUIHQWRJ59EWWRVJVACQ.uasset",
+				"C:/Users/v.hulin/Desktop/TowerDefenceSev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/52/Y8R2Q2PVLN02NZ9E0ABC1O.uasset",
+				"C:/Users/v.hulin/Desktop/TowerDefenceSev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1S/JXEFUZLU5BZT19IGB3O2BO.uasset",
+				"C:/Users/v.hulin/Desktop/TowerDefenceSev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MG/28ESWMJEJVWX5XT8B8TRIL.uasset"
+			]
+		}
+	]
+}
